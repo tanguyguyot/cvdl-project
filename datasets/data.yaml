@@ -1,0 +1,6 @@
+train: /cluster/home/tbguyot/assignment/datasets/images/train
+val: /cluster/home/tbguyot/assignment/datasets/images/valid
+test: /cluster/home/tbguyot/assignment/datasets/images/test
+
+nc: 1
+names: ['pole']
